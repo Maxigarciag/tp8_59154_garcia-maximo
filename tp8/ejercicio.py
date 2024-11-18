@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ## ATENCION: Debe colocar la direccion en la que ha sido publicada la aplicacion en la siguiente linea\
-# url = 'https://tp8-555555.streamlit.app/'
+# url = 'https://tp8-59154.streamlit.app/'
 
 # Función para calcular y graficar evolución de ventas
 def generar_grafico_evolucion(data, producto):
