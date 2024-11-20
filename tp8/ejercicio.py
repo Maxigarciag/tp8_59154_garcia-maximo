@@ -126,4 +126,3 @@ def main():
 # Ejecutar la aplicación
 if __name__ == "__main__":
     main()
-
